@@ -1,0 +1,14 @@
+{
+  "name": "Questions and Answers",
+  "description": "A place for people to ask questions",
+  "authors": [
+    {
+      "identifier": "Thomas Miller <thomasmillerprivate@gmail.com>",
+      "public_key_source": "",
+      "signature": ""
+    }
+  ],
+  "version": "0.1.0",
+  "dht": {},
+  "properties": null
+}
